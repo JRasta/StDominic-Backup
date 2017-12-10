@@ -1,0 +1,6 @@
+C:\Users\Jonny Laptop\Documents\Git Repository\StDominic\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\Jonny Laptop\Documents\Git Repository\StDominic\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\Jonny Laptop\Documents\Git Repository\StDominic\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\Jonny Laptop\Documents\Git Repository\StDominic\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+C:\Users\Jonny Laptop\Documents\Git Repository\StDominic\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\Jonny Laptop\Documents\Git Repository\StDominic\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
