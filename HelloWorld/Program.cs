@@ -10,24 +10,29 @@ namespace HelloWorld
     {
         static void Main(string[] args)
         {
-            //string myFirstString;
+            /*  
+                int myFirstInt;
+                double myFirstDouble;
+                bool myFirstBook = true;
+                var myFirstVar;
+                string myFirstString = createMeInCode();
+                Console.WriteLine("Hello " + myFirstString);
+                
+            */
+
 
             Console.WriteLine("Hello World");
-            
-            //string myFirstString = createMeInCode();
-            //Console.WriteLine("Hello " + myFirstString);
-
-
-
+            //ReadLine is to stop the program terminating until a key is pressed in the console
             Console.ReadLine();
         }
 
         static string createMeInCode()
         {
             string myName = "";
-
+            
             Console.WriteLine("Please insert a name");
             myName = Console.ReadLine();
+            
 
             return myName;
         }
