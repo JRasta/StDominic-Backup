@@ -19,8 +19,7 @@ namespace HelloWorld
                 Console.WriteLine("Hello " + myFirstString);
                 
             */
-
-
+            
             Console.WriteLine("Hello World");
             //ReadLine is to stop the program terminating until a key is pressed in the console
             Console.ReadLine();
